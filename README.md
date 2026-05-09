@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Isack Mbenda  👋
 
-<!--
-**isackmbenda8-afk/isackmbenda8-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 My Journey
+- 🎓 University Student from Tanzania.
+- 🚀 I am an aspiring **Data Scientist** and **Machine Learning Engineer**.
+- 📊 Currently building my foundation in Data Analysis.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Interests
+- **Learning:** Python 🐍, SQL 🗄️, and Data Visualization.
+- **Future Goals:** Mastering Predictive Modeling and Neural Networks.
+- **Tools:** GitHub 💻, Jupyter Notebooks, and DataCamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+- I'm documenting my progress as I dive deep into the world of AI and Data.
+- Open to learning from mentors and collaborating with fellow students.
+
